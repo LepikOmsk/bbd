@@ -1,0 +1,11 @@
+.link {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+  height: 64px;
+}
+
+.link :hover {
+  color: #ff0000;
+}
